@@ -13,7 +13,7 @@ export const Main = () => {
         <Container>
             <img src={logo} height="30" alt="logo" />
             <Content>
-                <img src={image} height="600" alt="bg-image"></img>
+                <img src={image} height="600" alt="bg"></img>
                 <Form />
             </Content>
             
